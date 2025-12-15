@@ -5,7 +5,6 @@ import {
   ScrapingConfig,
   SelectorOptions,
   RequestOptions,
-  BrowserEngine,
 } from "./types";
 
 export class Skyscraper {
